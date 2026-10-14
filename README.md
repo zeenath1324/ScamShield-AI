@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ScamShield AI — Cybersecurity Awareness Platform
 
 > **"Detect suspicious signs. Understand the risk. Stay safer online."**
@@ -356,3 +357,7 @@ Before pushing to a public or private GitHub repository:
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+=======
+# ScamShield-AI
+AI-powered Scam and Phishing Awareness Checker
+>>>>>>> 6e4bb19da4d047380a0dda3687b07435d48b7bc1
